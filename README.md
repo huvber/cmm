@@ -9,10 +9,10 @@ Emphasize the importance of writing less code.
 
 2. Write more code than needed only if at least 2 of the following conditions
 are satisified:
-  a. MWrite more code allow contributors to understand better the code itself.
-  b. Write more code made the implementation more efficent. 
-  c. Write more code allow to reuse it at least in 3 different places. 
-  d. Adding code allow to test it.
+    1. Write more code allow contributors to understand better the code itself.
+    2. Write more code made the implementation more efficent. 
+    3. Write more code allow to reuse it at least in 3 different places. 
+    4. Adding code allow to test it.
 
 ## Why
 
