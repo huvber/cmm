@@ -5,7 +5,7 @@ Emphasize the importance of writing less code.
 ## Manifesto
 
 1. Write the minimum code needed to accomplish the task.
-   1. Read your code again in order to remove the unencessary code.
+   1. Read your code again in order to remove the unnecessary code.
 
 2. Write more code than needed only if at least 2 of the following conditions
 are satisified:
