@@ -5,6 +5,7 @@ Emphasize the importance of writing less code.
 ## Manifesto
 
 1. Write the minimum code needed to accomplish the task.
+
   1.1. Read your code again in order to remove the unencessary code.
 
 2. Write more code than needed only if at least 2 of the following conditions
@@ -36,7 +37,7 @@ A very similar concept and mutual principle is the
 
 ## Who
 
-Here a list of developers are try to follow and spread the Movement
+Here a list of developers who tries to follow and spread the Movement
 
 - [Andrea Mannara'](https://github.com/huvber) - huvber@gmail.com
 
